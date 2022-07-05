@@ -1,0 +1,4 @@
+testrust
+testjava*
+*.class
+.history
